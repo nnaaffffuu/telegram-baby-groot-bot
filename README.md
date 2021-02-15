@@ -10,6 +10,6 @@ git clone https://github.com/nnaaffffuu/telegram-baby-groot-bot.git
 cd telegram-baby-groot-bot
 virtualenv venv
 source venv/bin/activate
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 python3 main.py
 ```

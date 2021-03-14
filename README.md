@@ -1,4 +1,4 @@
-# telegram-baby-groot-bot
+# telegram-groot-bot
 ![Python Version](https://img.shields.io/badge/Python-v3.8-blue)
 ![Repo Size](https://img.shields.io/github/repo-size/nnaaffffuu/telegram-baby-groot-bot)
 [![License](https://img.shields.io/github/license/nnaaffffuu/telegram-baby-groot-bot)](LICENSE)

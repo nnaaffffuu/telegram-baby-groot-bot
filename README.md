@@ -6,8 +6,8 @@
 ```bash
 sudo apt-get install python3-pip
 sudo pip3 install virtualenv
-git clone https://github.com/nnaaffffuu/telegram-baby-groot-bot.git
-cd telegram-baby-groot-bot
+git clone https://github.com/nnaaffffuu/telegram-groot-bot.git
+cd telegram-groot-bot
 virtualenv venv
 source venv/bin/activate
 pip3 install -r requirements.txt
